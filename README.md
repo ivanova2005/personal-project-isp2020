@@ -1,3 +1,7 @@
+# 3D Render
+
+[![Alt text](https://img.youtube.com/vi/fOe5L7WSvxs/0.jpg)](https://www.youtube.com/watch?v=fOe5L7WSvxs)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ivanova2005/personal-project-isp2020/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
@@ -11,10 +15,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# 3D Rendering
-
-[![Alt text](https://img.youtube.com/vi/fOe5L7WSvxs/0.jpg)](https://www.youtube.com/watch?v=fOe5L7WSvxs)
-
+# Header 1
 ## Header 2
 ### Header 3
 
