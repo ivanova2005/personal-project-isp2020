@@ -2,7 +2,7 @@
 
 <iframe id="ytplayer" type="text/html" width="720" height="405"
 src="https://www.youtube.com/embed/hKARDJ3R1OY?autoplay=1&controls=0&loop=1&modestbranding=1"
-frameborder="0" allowfullscreen>
+frameborder="0" allowfullscreen></iframe>
 
 ## Hospitals alternative for the overflow of patients with shipping containers
 
