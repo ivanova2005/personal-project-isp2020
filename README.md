@@ -1,6 +1,8 @@
 # 3D View
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hKARDJ3R1OY?controls=0&autoplay=1&controls=0&loop=1&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe id="ytplayer" type="text/html" width="720" height="405"
+src="https://www.youtube.com/embed/hKARDJ3R1OY?autoplay=1&controls=0&loop=1&modestbranding=1"
+frameborder="0" allowfullscreen>
 
 ## Hospitals alternative for the overflow of patients with shipping containers
 
