@@ -1,41 +1,61 @@
-# 3D View
+# Hospitals Alternative for the Overflow of Patients with Shipping Containers
 
+## 3D View
 <iframe id="ytplayer" type="text/html" width="720" height="405"
 src="https://www.youtube.com/embed/hKARDJ3R1OY?autoplay=1&controls=0&loop=1&modestbranding=1"
 frameborder="0" allowfullscreen></iframe>
 
-## Hospitals alternative for the overflow of patients with shipping containers
 
-The aim of this alternative is help the hospitals to them have the alternative to expand their areas with this containers using them like a ICU (intensive care units) giving them the option of them treat more patients in the best condition for them and for the hospital.
+### Aim  
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Is to give to the hospitals an alternative to them have the opportunity of expand their areas with this shipping containers using them like a ICU (intensive care units) giving them the ability of treat more patients in the bests conditions.
 
 ```markdown
-Syntax highlighted code block
-
-
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+ **Equipment**
+- Bed 
+- Mattress 
+- Mechanical fan 
+ - Facial or nasal masks applied to the person's face and fixed by elastic straps
+ - Tubes that from the mouth or from the nose reach the trachea. 
+ - Tubes that through the neck enter directly into the trachea
+- Infusion pumps 
+- Oxygen therapy 
+ - Nasal Cannulas or Glasses
+ - Simply Oxygen Mask 
+ - Mask with Reservoir 
+ - Venturi mask 
+- Ventilatory pattern
+- Suction system 
+- Monitor 
+- Powerbar 
+- Defibrillator 
+- Waste basket 
+- Dialysis machine
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XN6Wb9N3u_A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Equipment
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3ImZd3ncNmc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ivanova2005/personal-project-isp2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+###  Security Mesures
+1. Personal Security
 
-### Security Mesures
+En urgencias hay episodios violentos frecuentemente, personas que han tomado drogas, que tienen enfermedades mentales o que están en desacuerdo con el diagnóstico de los médicos y pierden la calma. La protección personal de los trabajadores y el resto de pacientes es imprescindible para que el funcionamiento de urgencias sea correcto.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+2. Respect for Privacy
+
+La protección de datos va mucho más allá del código “médico  paciente”, en cada hospital o centro de salud debe haber una zona de archivo cerrada al público y, a ser posible, con todo su contenido digitalizado y encriptado en una base de datos a salvo de incendios, accidentes o vandalismo.
+
+3. External Security
+
+Cuando una persona va a un hospital está en un estado vulnerable física o psicológicamente, por lo tanto, es clave que estos enfermos puedan descansar con tranquilidad sabiendo que el hospital es una zona segura frente a amenazas externas.
+
+4. Dangerous Material
+
+Medicación, material quirúrgico, elementos desechables, inyecciones y todo tipo de material peligroso debe ir en contenedores de seguridad, sobre todo después de su uso.
+
+5. Risk of Infections
+
+Cuando decimos que un hospital necesitas medidas de seguridad extra, no nos referimos a que necesite barrotes en las ventanas, sino que por la naturaleza de su actividad necesitamos planificar la seguridad del edificio en función de lo que se va a hacer en cada zona.
+
+###
