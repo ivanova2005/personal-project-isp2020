@@ -1,17 +1,14 @@
 # Hospitals Alternative for the Overflow of Patients with Shipping Containers
 
 ## 3D View
-<iframe id="ytplayer" type="text/html" width="720" height="405"
-src="https://www.youtube.com/embed/hKARDJ3R1OY?autoplay=1&controls=0&loop=1&modestbranding=1"
-frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f8dLtenMnN0?autoplay=1&controls=0&loop=1&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### Aim  
 
 Is to give to the hospitals an alternative to them have the opportunity of expand their areas with this shipping containers using them like a ICU (intensive care units) giving them the ability of treat more patients in the bests conditions.
 
-```markdown
- **Equipment**
+ *Equipment*
 - Bed 
 - Mattress 
 - Mechanical fan 
@@ -31,20 +28,21 @@ Is to give to the hospitals an alternative to them have the opportunity of expan
 - Defibrillator 
 - Waste basket 
 - Dialysis machine
-```
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XN6Wb9N3u_A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8CP9VslhCo8?autoplay=1&controls=0&loop=1&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3ImZd3ncNmc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NZ_nO0IjsAg?autoplay=1&controls=0&loop=1&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ###  Security Mesures
 1. Personal Security
+This are the measurements that the hospital takes to take care of the patients without putting in danger the workers or the other patients.
 
 En urgencias hay episodios violentos frecuentemente, personas que han tomado drogas, que tienen enfermedades mentales o que están en desacuerdo con el diagnóstico de los médicos y pierden la calma. La protección personal de los trabajadores y el resto de pacientes es imprescindible para que el funcionamiento de urgencias sea correcto.
 
 2. Respect for Privacy
-
-La protección de datos va mucho más allá del código “médico  paciente”, en cada hospital o centro de salud debe haber una zona de archivo cerrada al público y, a ser posible, con todo su contenido digitalizado y encriptado en una base de datos a salvo de incendios, accidentes o vandalismo.
+This is the "medic patient" information, but more than that these are all the date of the hospital save from fires, accidents or vandalism.
 
 3. External Security
 
@@ -58,4 +56,6 @@ Medicación, material quirúrgico, elementos desechables, inyecciones y todo tip
 
 Cuando decimos que un hospital necesitas medidas de seguridad extra, no nos referimos a que necesite barrotes en las ventanas, sino que por la naturaleza de su actividad necesitamos planificar la seguridad del edificio en función de lo que se va a hacer en cada zona.
 
+### Toxic Materials
+### Generator
 ###
