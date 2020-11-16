@@ -13,15 +13,15 @@ To give to the hospitals an alternative to them has the opportunity of expanding
 - Bed 
 - Mattress 
 - Mechanical fan 
-  - Facial or nasal masks applied to the person's face and fixed by elastic straps
-  - Tubes that from the mouth or from the nose reach the trachea. 
-  - Tubes that through the neck enter directly into the trachea
+ - Facial or nasal masks applied to the person's face and fixed by elastic straps
+ - Tubes that from the mouth or from the nose reach the trachea. 
+ - Tubes that through the neck enter directly into the trachea
 - Infusion pumps 
 - Oxygen therapy 
-  - Nasal Cannulas or Glasses
-  - Simply Oxygen Mask 
-  - Mask with Reservoir 
-  - Venturi mask 
+ - Nasal Cannulas or Glasses
+ - Simply Oxygen Mask 
+ - Mask with Reservoir 
+ - Venturi mask 
 - Ventilatory pattern
 - Suction system 
 - Monitor 
