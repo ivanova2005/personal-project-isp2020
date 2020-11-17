@@ -41,19 +41,14 @@ To give to the hospitals an alternative to them has the opportunity of expanding
 ###  Security Mesures
 
 1. Personal Security:
-
 This are the measurements that the hospital takes to take care of the patients without putting in danger the workers or the other patients.
 2. Respect for Privacy:
-
 This is the "medic patient" information, but more than that these is all the data of the hospital saved from fires, accidents or vandalism.
 3. External Security:
-
 To give the patients peace where they feel in a secure environment without feeling any threat in their wellness.
 4. Dangerous Material:
-
 All the materials that is use on the hospitals have to go to a toxic waste basket that goes to a specific recycling process.
 5. Risk of Infections:
-
 These are the securities that the different departments of the hospitals have to plan in order to keep the safety of the patients in function to maintain the sanity of the hospital in function.
 
 ### Toxic Materials
@@ -87,4 +82,4 @@ Dialysis machine	1	$8,000.00	2	$16,000.00	1	$8,000.00
 Electric supplies						
 Generador 	1	$8,000.00	1	$8,000.00	1	$8,000.00
 
-TOTALS 		$29,962.55		$58,925.10		$32,962.55) 
+TOTALS 		$29,962.55		$58,925.10		$32,962.55)
