@@ -33,10 +33,9 @@ To give to the hospitals an alternative to them has the opportunity of expanding
 
 ### 3D View
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8CP9VslhCo8?autoplay=1&controls=0&loop=1&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NZ_nO0IjsAg?autoplay=1&controls=0&loop=1&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8CP9VslhCo8?autoplay=1&controls=0&loop=1&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ###  Security Mesures
