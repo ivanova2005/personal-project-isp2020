@@ -1,21 +1,21 @@
 # Hospitals Alternative for the Overflow of Patients with Shipping Containers
 
-## 3D View
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f8dLtenMnN0?autoplay=1&controls=0&loop=1&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Aim  
 
 To give to the hospitals an alternative to them has the opportunity of expanding their areas with these shipping containers using them like an ICU (intensive care units) giving them the ability to treat more patients in the best conditions.
 
-## Operation
+### Operation
 
 These containers are going to have all the equipment that the hospitals need in an ICU (intensive care unit). This equipment is different in each design, in the page we have three different designs each with different materials and different use cases, the first prototype is Alpha, this model has all the materials that the patient needs, this is a more private environment since it’s just one bed and here the patient could have visits. The second prototype is Blue this can include from one to two beds, the goal is to attend to more patients, and being able to help them giving them the best condition, Prototype Red is a more complex environment where it's going to be ready for surgeries.  
 
-### 3D View
+## Alpha
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f8dLtenMnN0?autoplay=1&controls=0&loop=1&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Blue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NZ_nO0IjsAg?autoplay=1&controls=0&loop=1&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Red
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8CP9VslhCo8?autoplay=1&controls=0&loop=1&modestbranding=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Equipment
@@ -39,20 +39,25 @@ These containers are going to have all the equipment that the hospitals need in 
 - Dialysis machine
 
 ###  Security Mesures
+These are the security mesurements that we have to take into concideration with process like the creation of a envirometn that we want to be safe for the patients.
 
-1. Personal Security:
+#### Personal Security
 
-This are the measurements that the hospital takes to take care of the patients without putting in danger the workers or the other patients.
-2. Respect for Privacy:
+These are the measurements that the hospital takes to take care of the patients without putting in danger the workers or the other patients.
 
-This is the "medic patient" information, but more than that these is all the data of the hospital saved from fires, accidents or vandalism.
-3. External Security:
+#### Respect for Privacy
 
-To give the patients peace where they feel in a secure environment without feeling any threat in their wellness.
-4. Dangerous Material:
+This is the "medic-patient" information, but more than that this is all the data of the hospital save from fires, accidents or vandalism.
 
-All the materials that is use on the hospitals have to go to a toxic waste basket that goes to a specific recycling process.
-5. Risk of Infections:
+#### External Security
+
+Give the patients peace where they feel in a secure environment without feeling any threat in their wellness.
+
+#### Dangerous Material
+
+All the materials that are used in the hospitals have to go to a toxic waste basket that goes to a specific recycling process.
+
+#### Risk of Infections
 
 These are the securities that the different departments of the hospitals have to plan in order to keep the safety of the patients in function to maintain the sanity of the hospital in function.
 
@@ -62,12 +67,9 @@ These are the securities that the different departments of the hospitals have to
 ### Generator
 
 
-### Budget
+### Budget			
 
-[budget table] ()
-(Intensive Care Unit ICU 				
-
-| |Alfa| |Beta||Charlie||
+| |Alfa| |Blue||Red||
 |---------|----:|----:|--------:|----:|--------:|----:| 	
 |**Equipment**|**Quantity**|**Cost**|**Quantity**|**Cost**|**Quantity**|**Cost**|
 |Bed|	1|	$5,000.00|	2|	$10,000.00|	1|	$8,000.00|
