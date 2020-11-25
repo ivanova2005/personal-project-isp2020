@@ -2,7 +2,7 @@
 
 ## Problem
 
-Lack of space in the hospitals, this creates an overflow of patients that as we’ve seen in pandemics as the covid-19, some hospitals were short of space making that some patients had to experiences uncomfortable environments where their health is impaired.
+Lack of space in the hospitals, this creates an overflow of patients that as we’ve seen in pandemics as the covid-19, some hospitals were short of space making that patients had to experiences uncomfortable environments where their health is impaired.
 
 ## Goal   
 
