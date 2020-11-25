@@ -1,8 +1,12 @@
 # Hospitals Alternative for the Overflow of Patients with Shipping Containers
 
+## Problem
+
+Lack of space in the hospitals, this creates an overflow of patients that as we’ve seen in pandemics as the covid-19, some hospitals were short of space making that some patients had to experiences uncomfortable environments where their health is impaired.
+
 ## Goal   
 
-To give to the hospitals a fast alternative to them has the opportunity of expanding their areas with these shipping containers using them like an ICU (intensive care units) giving them the ability to treat more patients in the best conditions.
+Give the hospitals a fast and efficient prototype alternative to them has the opportunity of expanding their areas with these shipping containers using them like an ICU (intensive care units) giving them the ability to treat more patients in the best conditions.
 
 ## Operation
 
